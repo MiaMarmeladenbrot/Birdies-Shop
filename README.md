@@ -14,8 +14,6 @@ by [@MiaMarmeladenbrot](https://github.com/MiaMarmeladenbrot)
 
 ## Screenshots Mobile Version
 
-![](./public/screenshots/shop4.png)
-
-![](./public/screenshots/shop5.png)
-
-![](./public/screenshots/shop6.png)
+<img src="./public/screenshots/shop4.png" width="300"> 
+<img src="./public/screenshots/shop5.png" width="300">
+<img src="./public/screenshots/shop6.png" width="300">
