@@ -30,7 +30,6 @@ const Products = () => {
 
   return (
     <section className="products-page">
-      <section></section>
       <h2>All Products</h2>
       <article className="products-container">
         {/* über state-array mappen, um die Produktübersicht im HTML zu rendern: */}
